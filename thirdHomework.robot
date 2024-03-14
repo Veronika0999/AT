@@ -6,15 +6,15 @@ ${URL}      http://testovani.kitner.cz/courses
 
 *** Test Cases ***
 Prihlaseni bad login
-    Login               dsadsad@sdas.cz                     dasdas
+    Login               dsadsad@sdas.cz                   dasdas
     Uzivatel neni prihlasen
 
 Prihlaseni bad heslo
-    Login               radek.tester@seznam.cz              dasdas
+    Login               radek.tester@seznam.cz            dasdas
     Uzivatel neni prihlasen
 
 Prihlaseni success
-    Login               giyipem264@v1zw.com                 tajnenovak
+    Login               giyipem264@v1zw.com               tajnenovak
     Uzivatel je prihlasen
 
 
