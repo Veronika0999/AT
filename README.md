@@ -13,5 +13,6 @@ V tomto repozitáři najdete řešení domácích úkolů, které jsem splnila v
 - <code>secondHomework.robot</code> - práce s proměnými
 - <code>thirdHomework.robot</code> - přihlášení a odhlášení na webové stránce s použitím vícero způsobu k nalezení elementů
 - <code>fourthHomework.robot</code> - vytvoření klíčových slov pro přihlášen a odhlášení s kontrolou + registrace na kurz
+- DU5 - obsahuje <code>project.robot</code> pro registraci a přihlášení na kurz, dále soubor Data_and_Config, kde se nachází soubor <code>TestData.robot</code> s testovacími daty a <code>Configuration.robot</code>, který obsahuje konfiguarční parametry a proměnné
 ## Sources
 - used page: http://testovani.kitner.cz/courses
